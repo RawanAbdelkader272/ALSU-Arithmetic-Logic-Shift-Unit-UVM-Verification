@@ -279,17 +279,3 @@ To generate a coverage report from the saved database:
 ```
 vcover report -details -cvg alsu.ucdb -file alsu_coverage_report.txt
 ```
-
----
-
-## 10. Images used in this README
-
-Put the screenshots in an `images/` folder next to this file, with these names:
-
-| File | Content |
-| --- | --- |
-| `images/alsu_chip.png` | ALSU block diagram |
-| `images/uvm_hierarchy.png` | UVM hierarchy diagram |
-| `images/functional_coverage.png` | Functional coverage in QuestaSim |
-| `images/questa_transcript.png` | QuestaSim transcript output |
-| `images/waveform.png` | Waveform |
