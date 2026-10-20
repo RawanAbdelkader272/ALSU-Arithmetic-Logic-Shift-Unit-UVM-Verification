@@ -72,7 +72,7 @@ For opcodes 4 and 5, the ALSU assigns `out <= out_shift_reg`.
 ## 2. Verification Environment
 
 <p align="center">
-  <img src="images/uvm_hierarchy.png" alt="UVM hierarchy" width="800">
+  <img src="uvm_hierarchy.png" alt="UVM hierarchy" width="800">
 </p>
 
 The test (`alsu_test`) creates two environments:
