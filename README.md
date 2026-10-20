@@ -199,7 +199,7 @@ Total covergroup coverage reached **99.21%**. The full per-covergroup and per-bi
 ## 7. Results
 
 <p align="center">
-  <img src="images/questa_transcript.png" alt="QuestaSim transcript" width="900">
+  <img src="questa_transcript.png" alt="QuestaSim transcript" width="900">
 </p>
 
 | Item | Result |
