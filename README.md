@@ -9,7 +9,7 @@ UVM-based verification of a sequential 3-bit signed **Arithmetic Logic Shift Uni
 All inputs (except `clk` and `rst`) are registered through D flip-flops before the logic is evaluated, and all outputs are registered on the rising clock edge.
 
 <p align="center">
-  <img src="images/alsu_chip.png" alt="ALSU block diagram" width="300">
+  <img src="alsu_chip.png" alt="ALSU block diagram" width="300">
 </p>
 
 ### Signals
